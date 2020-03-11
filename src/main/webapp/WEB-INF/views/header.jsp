@@ -53,7 +53,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                          <li>
-                                            <a href="#">Demo Mountain</a>
+                                            <a href="#">Demo Creek</a>
                                         </li>
                                     </ul>
                                 </li>
